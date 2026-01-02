@@ -1,5 +1,5 @@
 ---
-permalink: /whoami?/
+permalink: /whoami/
 title: "Who Am I?"
 ---
 
