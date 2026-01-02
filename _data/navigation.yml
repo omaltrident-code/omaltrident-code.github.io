@@ -1,9 +1,30 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Extension"
+    url: /extension/
+  - title: "Blog Roll"
+    url: /blog-roll/
+  - title: "Podcast"
+    url: /podcast/
+  - title: "Sustainability"
+    url: /sustainability/
+  - title: "FAQs"
+    url: /faqs/
+  - title: "Who am I?"
+    url: /whoami?/
+  - title: "Supporting Me"
+    url: /supportingme/
+  - title: "Who am I?"
+    url: /whoami?/
+  - title: "Enquire"
+    url: /enquire/
+  - title: "Certifications"
+    url: /certifications/
+  - title: "Notice"
+    url: /notice/
+
+    
+
+
+
+
+
